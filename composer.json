@@ -6,8 +6,8 @@
 	"duamel/medoo": "*"
     },
     "autoload": {
-	"psr-4: {
+	"psr-4": {
 	    "Duamel\\Aigle\\":"src/"
-	} 
+	}
     }
 }
