@@ -1,0 +1,13 @@
+{
+    "name":"Aigle blog backend",
+    "require": {
+	"php-di/php-di": "^5.4",
+	"klein/klein": "*",
+	"duamel/medoo": "*"
+    },
+    "autoload": {
+	"psr-4: {
+	    "Duamel\\Aigle\\":"src/"
+	} 
+    }
+}
